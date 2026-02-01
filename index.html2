@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+<meta charset="UTF-8">
+<title>Навчання</title>
+</head>
+<body>
+<h1>Навчання</h1>
+
+<p>
+Національний педагогічний університет імені М. П. Драгоманова<br>
+м. Київ, вул. Пирогова, 9<br>
+<a href="https://npu.edu.ua">https://npu.edu.ua</a>
+</p>
+
+<p>
+Тернопільський національний педагогічний університет ім. В. Гнатюка<br>
+м. Тернопіль, вул. Максима Кривоноса, 2<br>
+<a href="https://tnpu.edu.ua">https://tnpu.edu.ua</a>
+</p>
+
+<a href="index.html">Головна</a>
+</body>
+</html>
